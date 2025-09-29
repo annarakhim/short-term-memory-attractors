@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annarakhim/short-term-memory-attractors/blob/main/short_term_memory.ipynb)
 # short-term-memory-attractors
 Модель кратковременной памяти
 
